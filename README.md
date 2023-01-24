@@ -14,7 +14,7 @@ code for CO-SNE: Dimensionality Reduction and Visualization for Hyperbolic Data 
 
 # Running
 
-    ```bash
-        python main.py
-    ```
+```bash
+$  python main.py
+```
 
